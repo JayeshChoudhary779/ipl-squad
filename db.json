@@ -1,6 +1,42 @@
 {
   "teams": {
-    "rcb": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
+    "rcb": [
+      { "name": "Virat Kohli", "role": "Batsman", "Nation": "India" },
+      { "name": "Suyash Prabhudessai", "role": "Batsman", "Nation": "India" },
+      {
+        "name": "Faf du Plessis",
+        "role": "Batsman",
+        "Nation": "foreign",
+        "captain": "true"
+      },
+      { "name": "Dinesh Karthik", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Anuj Rawat", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Finn Allen", "role": "WK-Batsman", "Nation": "foreign" },
+      { "name": "Luvnith Sisodia", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Mohammed Siraj", "role": "Bowler", "Nation": "India" },
+      { "name": "Karn Sharma", "role": "Bowler", "Nation": "India" },
+      { "name": "Jason Behrendorff", "role": "Bowler", "Nation": "foreign" },
+      { "name": "Siddarth Kaul", "role": "Bowler", "Nation": "India" },
+      { "name": "Chama Milind", "role": "Bowler", "Nation": "India" },
+      { "name": "Josh Hazlewood", "role": "Bowler", "Nation": "foreign" },
+      { "name": "Harshal Patel", "role": "Bowler", "Nation": "India" },
+      { "name": "Akash Deep", "role": "Bowler", "Nation": "India" },
+      { "name": "Glenn Maxwell", "role": "All-rounder", "Nation": "foreign" },
+      { "name": "David Willey", "role": "All-rounder", "Nation": "foreign" },
+      { "name": "Mahipal Lomror", "role": "All-rounder", "Nation": "India" },
+      {
+        "name": "Sherfane Rutherford",
+        "role": "All-rounder",
+        "Nation": "foreign"
+      },
+      { "name": "Aneeshwar Gautam", "role": "All-rounder", "Nation": "India" },
+      { "name": "Shahbaz Ahmed", "role": "All-rounder", "Nation": "India" },
+      {
+        "name": "Wanindu Hasaranga",
+        "role": "All-rounder",
+        "Nation": "foreign"
+      }
+    ],
     "csk": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
     "mi": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
     "kkr": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
