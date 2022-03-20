@@ -1,50 +1,421 @@
 {
   "teams": {
     "rcb": [
-      { "name": "Virat Kohli", "role": "Batsman", "Nation": "India" },
-      { "name": "Suyash Prabhudessai", "role": "Batsman", "Nation": "India" },
       {
         "name": "Faf du Plessis",
         "role": "Batsman",
-        "Nation": "foreign",
-        "captain": "true"
+        "Nation": "Foreign",
+        "captain": true
+      },
+      { "name": "Virat Kohli", "role": "Batsman", "Nation": "India" },
+      { "name": "Mohammed Siraj", "role": "Bowler", "Nation": "India" },
+      { "name": "Glenn Maxwell", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Harshal Patel", "role": "Bowler", "Nation": "India" },
+      { "name": "Josh Hazlewood", "role": "Bowler", "Nation": "Foreign" },
+      {
+        "name": "W Hasaranga",
+        "role": "All-rounder",
+        "Nation": "Foreign"
       },
       { "name": "Dinesh Karthik", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Shahbaz Ahmed", "role": "All-rounder", "Nation": "India" },
+      { "name": "David Willey", "role": "All-rounder", "Nation": "Foreign" },
+      {
+        "name": "S Rutherford",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      { "name": "Mahipal Lomror", "role": "All-rounder", "Nation": "India" },
+      { "name": "Finn Allen", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "J Behrendorff", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Suyash Prabhu", "role": "Batsman", "Nation": "India" },
       { "name": "Anuj Rawat", "role": "WK-Batsman", "Nation": "India" },
-      { "name": "Finn Allen", "role": "WK-Batsman", "Nation": "foreign" },
-      { "name": "Luvnith Sisodia", "role": "WK-Batsman", "Nation": "India" },
-      { "name": "Mohammed Siraj", "role": "Bowler", "Nation": "India" },
+      { "name": "Luvnith S", "role": "WK-Batsman", "Nation": "India" },
       { "name": "Karn Sharma", "role": "Bowler", "Nation": "India" },
-      { "name": "Jason Behrendorff", "role": "Bowler", "Nation": "foreign" },
       { "name": "Siddarth Kaul", "role": "Bowler", "Nation": "India" },
       { "name": "Chama Milind", "role": "Bowler", "Nation": "India" },
-      { "name": "Josh Hazlewood", "role": "Bowler", "Nation": "foreign" },
-      { "name": "Harshal Patel", "role": "Bowler", "Nation": "India" },
       { "name": "Akash Deep", "role": "Bowler", "Nation": "India" },
-      { "name": "Glenn Maxwell", "role": "All-rounder", "Nation": "foreign" },
-      { "name": "David Willey", "role": "All-rounder", "Nation": "foreign" },
-      { "name": "Mahipal Lomror", "role": "All-rounder", "Nation": "India" },
+      { "name": "Aneeshwar G", "role": "All-rounder", "Nation": "India" }
+    ],
+    "csk": [
       {
-        "name": "Sherfane Rutherford",
-        "role": "All-rounder",
-        "Nation": "foreign"
+        "name": "MS Dhoni",
+        "role": "WK-Batsman",
+        "Nation": "India",
+        "captain": true
       },
-      { "name": "Aneeshwar Gautam", "role": "All-rounder", "Nation": "India" },
-      { "name": "Shahbaz Ahmed", "role": "All-rounder", "Nation": "India" },
       {
-        "name": "Wanindu Hasaranga",
+        "name": "Ruturaj Gaikwad",
+        "role": "Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "Ravindra Jadeja",
         "role": "All-rounder",
-        "Nation": "foreign"
+        "Nation": "India"
+      },
+      {
+        "name": "Robin Uthappa",
+        "role": "Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "Ambati Rayudu",
+        "role": "Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "Deepak Chahar",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Devon Conway",
+        "role": "Batsman",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Moeen Ali",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Dwayne Bravo",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Shivam Dube",
+        "role": "All-rounder",
+        "Nation": "India"
+      },
+      {
+        "name": "Mitchell Santner",
+        "role": "Bowler",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Chris Jordan",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Dwaine Pretorius",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Bhagath Varma",
+        "role": "All-rounder",
+        "Nation": "India"
+      },
+      {
+        "name": "Subhranshu S",
+        "role": "Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "Hari Nishaanth",
+        "role": "Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "N Jagadeesan",
+        "role": "WK- Batsman",
+        "Nation": "India"
+      },
+      {
+        "name": "KM Asif",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Tushar Deshpande",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Maheesh T",
+        "role": "Bowler",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Simranjeet S",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Adam Milne",
+        "role": "Bowler",
+        "Nation": "Foreign"
+      },
+      {
+        "name": "Mukesh Choudhary",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Prashant Solanki",
+        "role": "Bowler",
+        "Nation": "India"
+      },
+      {
+        "name": "Rajvardhan H",
+        "role": "Bowler",
+        "Nation": "India"
       }
     ],
-    "csk": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "mi": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "kkr": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "srh": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "rr": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "pbks": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "dc": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "lsg": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }],
-    "gt": [{ "name": "virat" }, { "name": "virat" }, { "name": "virat" }]
+    "mi": [
+      {
+        "name": "Rohit Sharma",
+        "role": "Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Ishan Kishan", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Jasprit Bumrah", "role": "Bowler", "Nation": "India" },
+      { "name": "Suryakumar Yadav", "role": "Batsman", "Nation": "India" },
+      { "name": "Kieron Pollard", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Jaydev Unadkat", "role": "Bowler", "Nation": "India" },
+      { "name": "Fabian Allen", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Tymal Mills", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Daniel Sams", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Tim David", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Murugan Ashwin", "role": "Bowler", "Nation": "India" },
+      { "name": "Arjun Tendulkar", "role": "All-rounder", "Nation": "India" },
+      { "name": "Riley Meredith", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Mayank Markande", "role": "Bowler", "Nation": "India" },
+      { "name": "Basil Thampi", "role": "Bowler", "Nation": "India" },
+      { "name": "Tilak Varma", "role": "Batsman", "Nation": "India" },
+      { "name": "Ramandeep Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "Rahul Buddhi", "role": "Batsman", "Nation": "India" },
+      { "name": "Anmolpreet Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "Dewald Brevis", "role": "Batsman", "Nation": "India" },
+      { "name": "Aryan Juyal", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Mohammad Arshad", "role": "Bowler", "Nation": "India" },
+      { "name": "Hrithik Shokeen", "role": "All-rounder", "Nation": "India" },
+      { "name": "Sanjay Yadav", "role": "All-rounder", "Nation": "India" }
+    ],
+    "kkr": [
+      {
+        "name": "Shreyas Iyer",
+        "role": "Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Andre Russell", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Nitish Rana", "role": "Batsman", "Nation": "India" },
+      { "name": "Varun Chakravarty", "role": "Bowlers", "Nation": "India" },
+      { "name": "Sunil Narine", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Venkatesh Iyer", "role": "All-rounder", "Nation": "India" },
+      { "name": "Pat Cummins", "role": "Bowlers", "Nation": "Foreign" },
+      { "name": "Ajinkya Rahane", "role": "Batsman", "Nation": "India" },
+      { "name": "Tim Southee", "role": "Bowlers", "Nation": "Foreign" },
+      { "name": "Sam Billings", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Mohammad Nabi", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Aaron Finch", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Shivam Mavi", "role": "Bowlers", "Nation": "India" },
+      { "name": "Sheldon Jackson", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Umesh Yadav", "role": "Bowlers", "Nation": "India" },
+      { "name": "Rinku Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "Chamika Karunarat", "role": "Bowlers", "Nation": "Foreign" },
+      { "name": "Abhijeet Tomar", "role": "Batsman", "Nation": "India" },
+      { "name": "Pratham Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "Ramesh Kumar", "role": "Batsman", "Nation": "India" },
+      { "name": "Baba Indrajith", "role": "Batsman", "Nation": "India" },
+      { "name": "Rasikh Dar", "role": "Bowlers", "Nation": "India" },
+      { "name": "Ashok Sharma", "role": "Bowlers", "Nation": "India" },
+      { "name": "Anukul Roy", "role": "All-rounder", "Nation": "India" }
+    ],
+
+    "srh": [
+      {
+        "name": "Kane Williamson",
+        "role": "Batsman",
+        "Nation": "Foreign",
+        "captain": true
+      },
+      { "name": "Nicholas Pooran", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "T Natarajan", "role": "Bowler", "Nation": "India" },
+      { "name": "Bhuvneshwar Kumar", "role": "Bowler", "Nation": "India" },
+      { "name": "Washington Sundar", "role": "All-rounder", "Nation": "India" },
+      { "name": "Rahul Tripathi", "role": "Batsman", "Nation": "India" },
+      { "name": "Abdul Samad", "role": "All-rounder", "Nation": "India" },
+      { "name": "Umran Malik", "role": "Bowler", "Nation": "India" },
+      { "name": "Glenn Phillips", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Abhishek Sharma", "role": "All-rounder", "Nation": "India" },
+      { "name": "Aiden Markram", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Kartik Tyagi", "role": "Bowler", "Nation": "India" },
+      { "name": "Priyam Garg", "role": "Batsman", "Nation": "India" },
+      { "name": "Shreyas Gopal", "role": "Bowler", "Nation": "India" },
+      { "name": "Marco Jansen", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Sean Abbott", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "J Suchith", "role": "Bowler", "Nation": "India" },
+      { "name": "Shashank Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "R Samarth", "role": "Batsman", "Nation": "India" },
+      { "name": "Vishnu Vinod", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Saurabh Dubey", "role": "Bowler", "Nation": "India" },
+      { "name": "Romario Shepherd", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Fazal Farooqi", "role": "Bowler", "Nation": "Foreign" }
+    ],
+    "rr": [
+      {
+        "name": "Sanju Samson",
+        "role": "WK-Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Devdutt Padikkal", "role": "Batsman", "Nation": "India" },
+      { "name": "Jos Buttler", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Trent Boult", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Prasidh Krishna", "role": "Bowler", "Nation": "India" },
+      { "name": "R Ashwin", "role": "All-rounder", "Nation": "India" },
+      { "name": "Shimron Hetmyer", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Yashasvi Jaiswal", "role": "Batsman", "Nation": "India" },
+      { "name": "Coulter-Nile", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Yuzvendra Chahal", "role": "Bowler", "Nation": "India" },
+      { "name": "Daryl Mitchell", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Riyan Parag", "role": "All-rounder", "Nation": "India" },
+      { "name": "James Neesham", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Rassie var Dussen", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Navdeep Saini", "role": "Bowler", "Nation": "India" },
+      { "name": "Obed McCoy", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "KC Kariappa", "role": "Bowler", "Nation": "India" },
+      { "name": "Karun Nair", "role": "Batsman", "Nation": "India" },
+      { "name": "Dhruv Jurel", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Shubham Garhwal", "role": "Bowler", "Nation": "India" },
+      { "name": "Kuldip Yadav", "role": "Bowler", "Nation": "India" },
+      { "name": "Kuldeep Sen", "role": "Bowler", "Nation": "India" },
+      { "name": "Tejas Baroka", "role": "Bowler", "Nation": "India" },
+      { "name": "Anunay Singh", "role": "All-rounder", "Nation": "India" }
+    ],
+
+    "pbks": [
+      {
+        "name": "Mayank Agarwal",
+        "role": "Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Shahrukh Khan", "role": "Batsman", "Nation": "India" },
+      { "name": "Jonny Bairstow", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Shikhar Dhawan", "role": "Batsman", "Nation": "India" },
+      { "name": "Kagiso Rabada", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Arshdeep Singh", "role": "Bowler", "Nation": "India" },
+      { "name": "Rahul Chahar", "role": "Bowler", "Nation": "India" },
+      {
+        "name": "Liam Livingstone",
+        "role": "All-rounder",
+        "Nation": "Foreign"
+      },
+      { "name": "Writtick C", "role": "Bowler", "Nation": "India" },
+      { "name": "Odean Smith", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Sandeep Sharma", "role": "Bowler", "Nation": "India" },
+      { "name": "Raj Bawa", "role": "Bowler", "Nation": "India" },
+      { "name": "Prerak Mankad", "role": "Batsman", "Nation": "India" },
+      { "name": "Bhanuka Raja", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Prabhsimran S", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Jitesh Sharma", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Nathan Ellis", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Vaibhav Arora", "role": "Bowler", "Nation": "India" },
+      { "name": "Ishan Porel", "role": "Bowler", "Nation": "India" },
+      { "name": "Harpreet Brar", "role": "Bowler", "Nation": "India" },
+      { "name": "Benny Howell", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Baltej Singh", "role": "All-rounder", "Nation": "India" },
+      { "name": "Ansh Patel", "role": "All-rounder", "Nation": "India" },
+      { "name": "Rishi Dhawan", "role": "All-rounder", "Nation": "India" },
+      { "name": "Atharva Taide", "role": "All-rounder", "Nation": "India" }
+    ],
+
+    "dc": [
+      {
+        "name": "Rishabh Pant",
+        "role": "WK-Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Prithvi Shaw", "role": "Batsman", "Nation": "India" },
+      { "name": "David Warner", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Shardul Thakur", "role": "Bowler", "Nation": "India" },
+      { "name": "Axar Patel", "role": "All-rounder", "Nation": "India" },
+      { "name": "Anrich Nortje", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Mitchell Marsh", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Rovman Powell", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Tim Seifert", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Chetan Sakariya", "role": "Bowler", "Nation": "India" },
+      { "name": "KS Bharat", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Kuldeep Yadav", "role": "Bowler", "Nation": "India" },
+      { "name": "Mustafizur Rahman", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Kamlesh Nagarkoti", "role": "Bowler", "Nation": "India" },
+      { "name": "Lalit Yadav", "role": "All-rounder", "Nation": "India" },
+      { "name": "Lungi Ngidi", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Sarfaraz Khan", "role": "Batsman", "Nation": "India" },
+      { "name": "Khaleel Ahmed", "role": "Bowler", "Nation": "India" },
+      { "name": "Mandeep Singh", "role": "Batsman", "Nation": "India" },
+      { "name": "Ashwin Hebbar", "role": "Batsman", "Nation": "India" },
+      { "name": "Yash Dhull", "role": "Batsman", "Nation": "India" },
+      { "name": "Praveen Dubey", "role": "Bowler", "Nation": "India" },
+      { "name": "Ripal Patel", "role": "All-rounder", "Nation": "India" },
+      { "name": "Vicky Ostwal", "role": "All-rounder", "Nation": "India" }
+    ],
+
+    "lsg": [
+      {
+        "name": "KL Rahul",
+        "role": "WK-Batsman",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Marcus Stoinis", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Ravi Bishnoi", "role": "Bowler", "Nation": "India" },
+      { "name": "Quinton de Kock", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Jason Holder", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Manish Pandey", "role": "Batsman", "Nation": "India" },
+      { "name": "Krunal Pandya", "role": "All-rounder", "Nation": "India" },
+      { "name": "Deepak Hooda", "role": "All-rounder", "Nation": "India" },
+      { "name": "Evin Lewis", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Ankit Rajpoot", "role": "Bowler", "Nation": "India" },
+      { "name": "Avesh Khan", "role": "Bowler", "Nation": "India" },
+      { "name": "Kyle Mayers", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Dushmantha C", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "K Gowtham", "role": "All-rounder", "Nation": "India" },
+      { "name": "Manan Vohra", "role": "Batsman", "Nation": "India" },
+      { "name": "Shahbaz Nadeem", "role": "Bowler", "Nation": "India" },
+      { "name": "Mohsin Khan", "role": "Bowler", "Nation": "India" },
+      { "name": "Mayank Yadav", "role": "Bowler", "Nation": "India" },
+      { "name": "Karan Sharma", "role": "All-rounder", "Nation": "India" },
+      { "name": "Ayush Badoni", "role": "All-rounder", "Nation": "India" }
+    ],
+
+    "gt": [
+      {
+        "name": "Hardik Pandya",
+        "role": "All-rounder",
+        "Nation": "India",
+        "captain": true
+      },
+      { "name": "Shubman Gill", "role": "Batsman", "Nation": "India" },
+      { "name": "Rashid Khan", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Mohammed Shami", "role": "Bowler", "Nation": "India" },
+      { "name": "Lockie Ferguson", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Rahul Tewatia", "role": "All-rounder", "Nation": "India" },
+      { "name": "David Miller", "role": "Batsman", "Nation": "Foreign" },
+      { "name": "Wriddhiman Saha", "role": "WK-Batsman", "Nation": "India" },
+      { "name": "Dominic Drakes", "role": "All-rounder", "Nation": "Foreign" },
+      { "name": "Matthew Wade", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Jayant Yadav", "role": "All-rounder", "Nation": "India" },
+      { "name": "Alzarri Joseph", "role": "Bowler", "Nation": "Foreign" },
+      { "name": "Vijay Shankar", "role": "All-rounder", "Nation": "India" },
+      { "name": "Gurkeerat Singh", "role": "All-rounder", "Nation": "India" },
+      { "name": "Varun Aaron", "role": "Bowler", "Nation": "India" },
+      { "name": "Sai Sudarshan", "role": "Batsman", "Nation": "India" },
+      { "name": "Abhinav S", "role": "Batsman", "Nation": "India" },
+      { "name": "Rahmanullah", "role": "WK-Batsman", "Nation": "Foreign" },
+      { "name": "Darshan Nalkande", "role": "Bowler", "Nation": "India" },
+      { "name": "Yash Dayal", "role": "Bowler", "Nation": "India" },
+      { "name": "Pradeep Sangwan", "role": "Bowler", "Nation": "India" },
+      { "name": "R Sai Kishore", "role": "Bowler", "Nation": "India" },
+      { "name": "Noor Ahmad", "role": "Bowler", "Nation": "Foreign" }
+    ]
   }
 }
