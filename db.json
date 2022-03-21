@@ -588,7 +588,8 @@
         "name": "Kane Williamson(C)",
         "role": "Batsman",
         "Nation": "Foreign",
-        "captain": true
+        "captain": true,
+        "isSelected": true
       },
       {
         "name": "Nicholas Pooran",
@@ -756,8 +757,8 @@
         "isSelected": false
       },
       {
-        "name": "R Ashwin",
-        "role": "All-rounder",
+        "name": "Ravichandra Ashwin",
+        "role": "Bowler",
         "Nation": "India",
         "isSelected": false
       },
