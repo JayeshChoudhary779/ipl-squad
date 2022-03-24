@@ -94,7 +94,7 @@
       },
       {
         "name": "Anuj Rawat",
-        "role": "WK-Batsman",
+        "role": "Batsman",
         "Nation": "India",
         "isSelected": false
       },
@@ -137,21 +137,21 @@
     ],
     "csk": [
       {
-        "name": "MS Dhoni(C)",
-        "role": "WK-Batsman",
+        "name": "Ravindra Jadeja(C)",
+        "role": "All-rounder",
         "Nation": "India",
         "captain": true,
         "isSelected": true
       },
       {
-        "name": "Ruturaj Gaikwad",
-        "role": "Batsman",
+        "name": "MS Dhoni",
+        "role": "WK-Batsman",
         "Nation": "India",
         "isSelected": false
       },
       {
-        "name": "Ravindra Jadeja",
-        "role": "All-rounder",
+        "name": "Ruturaj Gaikwad",
+        "role": "Batsman",
         "Nation": "India",
         "isSelected": false
       },
@@ -235,7 +235,7 @@
       },
       {
         "name": "N Jagadeesan",
-        "role": "WK- Batsman",
+        "role": "WK-Batsman",
         "Nation": "India",
         "isSelected": false
       },
@@ -1264,6 +1264,12 @@
         "name": "Manan Vohra",
         "role": "Batsman",
         "Nation": "India",
+        "isSelected": false
+      },
+      {
+        "name": "Andrew Tye",
+        "role": "Bowler",
+        "Nation": "Foreign",
         "isSelected": false
       },
       {
